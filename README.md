@@ -31,4 +31,3 @@ TR|
   
   I would like to thank my friend Oguz Kaan Ataya (@Mervoder) who wrote the control codes of the vehicle in the project. I would also like to express my thanks to my friend Seyhun Çelik, who made the drawing of the card with KiCad. 
 
-  *.c linguist-language=C
