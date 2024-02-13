@@ -15,6 +15,7 @@ TR|
   Projede Aracın kumanda kodlarını yazan arkadaşım Oğuz Kaan Ataya (@Mervoder) teşekkürlerimi iletirim. Kartın KiCad ile çizimini yapan arkadaşım Seyhun Çelik'e de teşekkürlerimi iletirim. 
 
 
+-
 
 
   EN|
