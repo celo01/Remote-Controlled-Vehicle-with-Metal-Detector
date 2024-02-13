@@ -11,6 +11,7 @@ TR|
   Araç kumandası, aracın istenilen yönde hareket ettirmeyi (İleri-Geri-Sağa-Sola-Dur) sağlar. Nextion ekran ise bize aracın konumu ve metallerin konumu hakkında bilgi vermeyi sağlar.
 
   Projemiz başarılı şekilde çalışmıştır ve istenilen görevleri yerine getirmiştir.
+  
   Projede Aracın kumanda kodlarını yazan arkadaşım Oğuz Kaan Ataya (@Mervoder) teşekkürlerimi iletirim. Kartın KiCad ile çizimini yapan arkadaşım Seyhun Çelik'e de teşekkürlerimi iletirim. 
 
 
@@ -24,4 +25,5 @@ TR|
   The vehicle control allows the vehicle to move in the desired direction (Forward-Backward-Right-Left-Stop). The Nextion display, on the other hand, allows us to provide information about the position of the vehicle and the position of metals.
 
   Our project has worked successfully and has fulfilled the desired tasks.
+  
   I would like to thank my friend Oguz Kaan Ataya (@Mervoder) who wrote the control codes of the vehicle in the project. I would also like to express my thanks to my friend Seyhun Çelik, who made the drawing of the card with KiCad. 
