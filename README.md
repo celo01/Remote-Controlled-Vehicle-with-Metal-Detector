@@ -15,6 +15,8 @@ TR|
   Projede Aracın kumanda kodlarını yazan arkadaşım Oğuz Kaan Ataya (@Mervoder) teşekkürlerimi iletirim. Kartın KiCad ile çizimini yapan arkadaşım Seyhun Çelik'e de teşekkürlerimi iletirim. 
 
 
+
+
   EN|
   We made this tool under the joint graduation project of the Department of Electrical and Electronics of Cukurova University. It is produced as an interdisciplinary project. 
 
